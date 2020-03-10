@@ -1,7 +1,8 @@
 body {
-    color: navy;
+
+    color: cyan;
     background-color: grey;
-    font-size: 150%;
+    font-size: 300%;
     font-family: 'Sacramento', cursive;
     margin: 5em 25%;
  }
